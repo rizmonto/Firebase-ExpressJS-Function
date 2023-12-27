@@ -8,5 +8,7 @@
 1. Install Node
 2. Install Firebase Tools
 3. Login to Firebase
-4. Test using local emulator
-5. Deploy to online Firebase Project
+4. Edit `routes.financeTransactions.js` as needed
+5. Edit `.firebaserc` and change "default" project to your selected Firebase project (found in your Firebase Console)
+5. Test using local emulator
+6. Deploy to online Firebase Project
