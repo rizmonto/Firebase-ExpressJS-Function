@@ -31,4 +31,4 @@ exports.helloWorld = onRequest((request, response) => {
  });
 */
 
-exports.app = functions.https.onRequest(app);
+exports.app = functions.https.onRequest(app); // exporting the Express app as a Firebase Function
